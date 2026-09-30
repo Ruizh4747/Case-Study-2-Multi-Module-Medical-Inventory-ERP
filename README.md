@@ -23,8 +23,7 @@ I architected and developed a custom, modular web application from the ground up
 
 ## 🖥️ System Interface
 
-![Dashboard Preview](./assets/dashboard-preview.png)
-![Inventory Module](./assets/inventory-module.png)
+![Dashboard Preview](./dashboard-preview.png)
 
 ---
 
